@@ -708,6 +708,10 @@ body {
   margin-bottom: 30px;
 }
 
+.callback-form-input-error {
+  border: 1px solid red;
+}
+
 /* CALCULATOR FORM SECTION */
 
 .calculator {
